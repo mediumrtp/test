@@ -1,0 +1,268 @@
+.container{
+    width: 70%;
+    color: #9b7b4d;
+    font-size: 12px;
+    background-color: white;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.containet col-sm-6{
+    text-align: left;
+}
+.containet col-sm-6{
+    text-align: left;
+}
+.row-h p{
+    color: #9b7b4d;
+    padding-left: 5%;
+
+}
+.container p{
+    padding-top: 2%;
+}
+.col-sm-6-r{
+    text-align: right;
+    padding-right: 5%;
+}
+.navbar{
+    float: right;
+    display: inline-block;
+    position: relative;
+    font-size: 17px;
+    margin-top: -5%;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li {
+    float: left;
+    color: black;
+    font: inherit;
+}
+li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font: inherit;
+    color: black;
+    vertical-align: baseline;
+}
+.container-menu{
+    font: inherit;
+}
+.container-logo{
+    width: 100%;
+    padding: 0;
+    height: 650px;
+}
+.col-sm-3 {
+    font-size: 15px;
+    text-align: center;
+    font: bold 18px/24px "Libre Baskerville";
+    color: black;
+    margin-top: -40px;
+}
+.col-sm-3 p{
+    padding-top: 15%;
+    font: bold 18px/24px "Libre Baskerville";
+    color: #303030;
+}
+.col-sm-3 a{
+    color: #cca876;
+    font-size: 12px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.col-sm-3-icon{
+    text-align: left;
+    padding: 3%;
+    padding-top: -15px;
+
+}
+.col-sm-3-icon p{
+    text-align: left;
+}
+.row-icon{
+    padding-top: 10%;
+}
+.row-icon p{
+    text-align: left;
+    margin-top: -30px;
+    color: #4a4a4a;
+    font: normal 17px "Montserrat";
+}
+.container-icon{
+    padding-top: -10%;
+}
+.col-sm-12{
+    padding-top: inherit;
+    margin-top: 20px;
+    text-align: center;
+    color: #4a4a4a;
+}
+.col-sm-12 p1{
+    color: #cca876;
+    background-image: ;
+}
+.col-sm-12 h3{
+    margin-top: 4%;
+}
+.row-p img{
+    width: 100%;
+}
+.row-a{
+    padding-top: 4%;
+}
+.row-a a{
+    font-size: 18px;
+    font-style: normal;
+    color: #2c2c2c;
+    font-weight: 400;
+    text-align: left;
+}
+.col-sm-3-a p {
+    text-align: left;
+    padding: 1%;
+    font-size: 18px;
+    font-style: normal;
+    color: #2c2c2c;
+    font-weight: 400;
+}
+.container-text{
+    padding-top: 3%;
+}
+.container-text container{
+    text-align: left;
+}
+.container-centerline {
+    padding-top: 45%;
+}
+.container button {
+    height: 30px;
+    width: 150px;
+    font-size: 12px;
+    color:#cca876 ;
+}
+.container-form {
+    width: 100%;
+    padding: 0;
+    padding-top: 5%;
+}
+.container-form img{
+    width: 100%;
+    height: 650px;
+    position: relative;
+}
+.container-b{
+    margin-top: 5%;
+    padding-top: 15%;
+    background-image:url("/home/igor/Desktop/untitled7/img/bg_1.jpeg ");
+    width: 100%;
+    height: 550px;
+}
+
+.name input{
+    width: 350px;
+    height: 60px;
+    float: right;
+}
+.massage input{
+    width: 100%;
+    padding: 8%;
+    padding-left: 0%;
+    margin-left: 2%;
+    text-align: left;
+}
+.row h2{
+    margin-top: 2%;
+    text-align: center;
+    font: normal 28px/34px Montserrat;
+    color: black;
+}
+.row-r input{
+    padding-top: 2%;
+    position: center;
+    margin-left: 45%;
+    margin-top: 3%;
+    background-color: #cca876;
+}
+.container-b p{
+    color: black;
+    text-align: center;
+    font-size: initial;
+}
+.container-footer h2{
+    margin-left: 45%;
+    font-size: 17px;
+    margin-top: -15%;
+}
+.row navbar{
+    text-align: center;
+}
+.container-footer{
+    background-image:url("/home/igor/Desktop/untitled7/img/bg_3.jpeg ");
+    width: 100%;
+    height: 550px;
+    margin-top: 0%;
+    padding-top: 15%;
+
+}
+.navbar-footer {
+    float: left;
+    padding-top: 5%;
+    padding-left: 30%;
+}
+.navbar-footer ul li a{
+    color: white;
+}
+.col-sm-4-req input{
+    background-color: black;
+    font: normal 12px/16px "Montserrat";
+    width: 440px;
+    height: 60px;
+    color: white;
+    position: center;
+}
+.row-r input{
+    text-align: center;
+}
+.row-req{
+    text-align: center;
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-top: 1%;
+    margin-left: -13%;
+}
+.col-sm-3-req1{
+    text-align: left;
+    margin-left: -20%;
+}
+
+.col-sm-3-3-4{
+    text-align: left;
+}
+.col-sm-3-3-4 span{
+    color: white;
+    font: inherit;
+
+
+}
+
+.col-sm-3-2{
+    text-align: left;
+    background-color: none;
+
+}
+.col-sm-3-2 h4{
+    color: white;
+
+}
+.col-sm-3-1{
+    text-align: left;
+    normal 12px/16px "Montserrat";
+    color: #d8d8d8;;
+}
+
+}
